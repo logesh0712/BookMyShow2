@@ -1,0 +1,12 @@
+
+A movie booking portal. requirements are below.
+ 1. user should able to select citites.
+ 2.then user should able to select movies.
+ 3.then user should able to select theater.
+ 4.choose movie time,
+ 5.select seat
+ 6.Book tickets.
+ 
+ Other things to discuss are, 
+ concurrecy ...etc
+ 
